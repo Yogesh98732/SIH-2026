@@ -21,7 +21,7 @@
 
 **Theme:** Smart Agriculture & Precision Farming
 
-**Organization:** Ministry/Department Name
+**Organization:**Ministry of Agriculture & Rural Development
 
 ### Problem Description
 Farmers often face crop losses due to late disease detection, pest infestations, and improper fertilizer management. Traditional monitoring methods are time-consuming and require expert knowledge.
@@ -29,8 +29,7 @@ Farmers often face crop losses due to late disease detection, pest infestations,
 ---
 
 # 💡 Proposed Solution
-
-NutriTrack AI is an intelligent agriculture platform that combines:
+Pest disease monitoring system is an intelligent agriculture platform that combines:
 
 ✅ AI-based disease detection
 
@@ -148,7 +147,7 @@ NutriTrack/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/NutriTrack.git
+git clone https://github.com/Yogesh98732/crop health system.git
 cd NutriTrack
 ```
 
